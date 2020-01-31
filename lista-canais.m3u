@@ -1,0 +1,353 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="/iptv-list.jpg" pltv-name="Minha lista" pltv-description="Lista IPTV" pltv-cover="/iptv-list.jpg" pltv-author="PAULO FABRICIO" pltv-email="PFABRICIO"
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",Globo RJ HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",GLOBO
+https://origin.canaismax.com/live/globosphd/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",RECORD SP
+https://origin.canaismax.com/mylive/recordhd/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",Ricos TV
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",TV TRANSAMÉRICA
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",RecordTV
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Gloobinho HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloobinho24ha/hls-gloobinho24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Gloob
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",GNT
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Canal Viva
+https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Multishow
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Canal Off
+https://globolive.akamaized.net/d/c/x2800/s/hls-off24ha/hls-off24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Bis
+https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",Canal Brasil
+https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",FOX SPORTS
+https://origin.canaismax.com/mylive/foxsportshd/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SPORTV
+https://origin.canaismax.com/mylive/sportvhd/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SPORTV 2
+https://origin.canaismax.com/mylive/sportv2hd/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",FOX SPORTS
+https://origin.canaismax.com/mylive/foxsportshd/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SporTV HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SporTV 3 HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Combate HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Premiere Clubes HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Premiere 2 HD
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc2/hls-pfc2_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Premiere 3 HD
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc3/hls-pfc3_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Premiere 4 HD
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc4/hls-pfc4_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Premiere 5 HD
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc5/hls-pfc5_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Premiere 6 HD
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc6/hls-pfc6_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Premiere 7 HD
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc7/hls-pfc7_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SporTV
+https://origin.canaismax.com/mylive/sportvhd/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SportTV
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Combate
+https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SportTV 3
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",Globo RJ HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",MASTER TV HD
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",TELECINE ACTION
+https://origin.canaismax.com/live/telecineactionhd/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",TELECINE ACTION
+https://origin.canaismax.com/live/telecineactionhd/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Câmeras",Animais África do Sul
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Câmeras",Estúdio 100.5 FM Rio de Janeiro - RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Gospel Music TV
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",10
+http://198.255.23.18:2095/streams/10_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",20
+http://198.255.23.18:2095/streams/20_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",59
+http://198.255.23.18:2095/streams/59_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Animal planet
+http://198.255.23.18:2095/streams/98_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",100
+http://198.255.23.18:2095/streams/100_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",109
+http://198.255.23.18:2095/streams/109_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",114
+http://198.255.23.18:2095/streams/114_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",116
+http://198.255.23.18:2095/streams/116_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",117
+http://198.255.23.18:2095/streams/117_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",119
+http://198.255.23.18:2095/streams/119_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",121
+http://198.255.23.18:2095/streams/121_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Disney Channel
+http://198.255.23.18:2095/streams/129_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Disney JR
+http://198.255.23.18:2095/streams/130_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Disney XD
+http://198.255.23.18:2095/streams/131_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Gloob
+http://198.255.23.18:2095/streams/132_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Nat geo kids
+http://198.255.23.18:2095/streams/134_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Nickelodeon
+http://198.255.23.18:2095/streams/135_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Ratimbum
+http://198.255.23.18:2095/streams/136_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Zoomo
+http://198.255.23.18:2095/streams/137_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Discovery Kids
+http://198.255.23.18:2095/streams/138_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",Nick Jr
+http://198.255.23.18:2095/streams/139_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",141
+http://198.255.23.18:2095/streams/141_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",142
+http://198.255.23.18:2095/streams/142_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",143
+http://198.255.23.18:2095/streams/143_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",157
+http://198.255.23.18:2095/streams/157_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",169
+http://198.255.23.18:2095/streams/169_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",171
+http://198.255.23.18:2095/streams/171_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",172
+http://198.255.23.18:2095/streams/172_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",173
+http://198.255.23.18:2095/streams/173_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",175
+http://198.255.23.18:2095/streams/175_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",177
+http://198.255.23.18:2095/streams/177_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",179
+http://198.255.23.18:2095/streams/179_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",182
+http://198.255.23.18:2095/streams/182_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",187
+http://198.255.23.18:2095/streams/187_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",189
+http://198.255.23.18:2095/streams/189_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",201
+http://198.255.23.18:2095/streams/201_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",GLOBO SP
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",GLOBO RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",SBT (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",REDETV! (RJ)
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w20312726.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",TV ESCOLA HD
+https://video-rvd-lmg.rnp.br/live/ocp(t(FeplKSY9BkM)r(TOqkzw)a(LQaIDQ)p(d(lCo)k(oww)m(Zzf_kMSRy84SIT6xnENdqA)n(a(y5b0rA)s(b6E)'a(WCMLBA)s(hPQ)))s(s(BKk)b(ssnxTM7r1WrtjbG7yfRKrylQWpkd5Ac_f_NaUuAsv7PPRB9rng_kxzXInUZSW2vW1WDv7s1CxIY4P4hq4g)'s(wTU)b(tydbMcduvBjBNTeuar1-EmUoJDnipOzPcweS1-8c78leZJ1SmljyCzAN1ep5KP2V848McIVbAhByLZE5BcCljPbBHAEIDyMvcOJtwvyl)'s(znI)b(cO4Dd9lN))m(0))/tvescola_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FILMES",PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Premiere Clubes
+https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_1151/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",SporTV
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_1151/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",SporTV HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",SporTV 2
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_1151/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Combate
+https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Combate HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Off HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-off24ha/hls-off24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",🇧🇷FOX SPORTS 2 SD🇧🇷
+http://198.255.23.18:2095/streams/57_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",FISH TV HD
+http://198.255.23.18:2095/streams/109_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Gloobinho
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloobinho24ha/hls-gloobinho24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Gloob
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Gloob HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Cine+
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Yeeah!
+http://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",SPACE HD
+http://198.255.23.18:2095/streams/200_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Canal Brasil HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Viva
+https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",GNT
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",BIS
+https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Multishow
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Multishow HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",GNT HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="SOUND!",AXÉ
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="SOUND!",FESTA
+http://6d9a.webradio.upx.net.br:9070/stream?
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="SOUND!",FUNK
+http://192.99.150.31:9089/stream?
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="SOUND!",HIP HOP
+http://192.99.150.31:8721/stream?
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantis",LOCOMOTION HD
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",ANIMAIS ÁFRICA DO SUL
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="SOUND!",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="SOUND!",SERTANEJO
+http://192.99.150.31:9485/stream
